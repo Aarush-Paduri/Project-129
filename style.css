@@ -1,0 +1,28 @@
+.heading {
+    width: 100%;
+    font-size: 15px;
+    color: black;
+}
+
+.head {
+    font-size: 25px;
+    color: white;
+}
+
+body {
+    background-size: cover;
+}
+
+.song {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+canvas {
+    border-radius: 25px;
+    border: 6px dashed white;
+    margin-top: 100px;
+    margin-left: 465px;
+}
